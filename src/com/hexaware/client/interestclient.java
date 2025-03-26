@@ -1,5 +1,7 @@
 package com.hexaware.client;
 import com.hexaware.entity.interest;
+import com.hexaware.util.myutil;
+
 import java.util.Scanner;
 
 public class interestclient {
@@ -15,8 +17,8 @@ public class interestclient {
         in.r=r;
         in.n=n;
         double si=in.simpleinterest(p,t,r);
-        System.out.println("Si "+si);
+        System.out.println("Si "+ myutil.roundof2places(si));
         double ci=in.compoundinterest(p,t,r,n);
-        System.out.println("ci "+ci);
+        System.out.println("ci "+myutil.roundof2places(ci));
     }
 }
