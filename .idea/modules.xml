@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/HEXAWARE.iml" filepath="$PROJECT_DIR$/HEXAWARE.iml" />
       <module fileurl="file://$PROJECT_DIR$/RTPDemo/RTPDemo.iml" filepath="$PROJECT_DIR$/RTPDemo/RTPDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/override demo/override demo.iml" filepath="$PROJECT_DIR$/override demo/override demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rtpEmpSalary/rtpEmpSalary.iml" filepath="$PROJECT_DIR$/rtpEmpSalary/rtpEmpSalary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rtpShapeDemo/rtpShapeDemo.iml" filepath="$PROJECT_DIR$/rtpShapeDemo/rtpShapeDemo.iml" />
     </modules>
   </component>
 </project>
