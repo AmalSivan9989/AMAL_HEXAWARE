@@ -7,7 +7,7 @@ import com.hexaware.entity.Lion;
 
 public class AnimalClient {
     public static void main(String[] args) {
-        Animal lion=new Lion();
+      /*  Animal lion=new Lion();
         Animal dog=new Dog();
         Animal cat=new Cat();
 
@@ -17,5 +17,20 @@ public class AnimalClient {
         System.out.println();
         cat.Makenoise();
         System.out.println();
+
+       */
+
+        Animal[] arr=new Animal[3];
+        arr[0]=new Lion();
+        arr[1]=new Dog();
+        arr[2]=new Cat();
+        for (int i = 0; i < arr.length; i++) {
+            display(arr[i]);
+        }
+
+
+    }
+    public static void display(Animal obj){
+        obj.Makenoise();
     }
 }
