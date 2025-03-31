@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ExceptionDemo/ExceptionDemo.iml" filepath="$PROJECT_DIR$/ExceptionDemo/ExceptionDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/HEXAWARE.iml" filepath="$PROJECT_DIR$/HEXAWARE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LambdaExpressionDemo/LambdaExpressionDemo.iml" filepath="$PROJECT_DIR$/LambdaExpressionDemo/LambdaExpressionDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LooselyCoupled/LooselyCoupled.iml" filepath="$PROJECT_DIR$/LooselyCoupled/LooselyCoupled.iml" />
       <module fileurl="file://$PROJECT_DIR$/MultipleInterface/MultipleInterface.iml" filepath="$PROJECT_DIR$/MultipleInterface/MultipleInterface.iml" />
       <module fileurl="file://$PROJECT_DIR$/RTPDemo/RTPDemo.iml" filepath="$PROJECT_DIR$/RTPDemo/RTPDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/override demo/override demo.iml" filepath="$PROJECT_DIR$/override demo/override demo.iml" />
