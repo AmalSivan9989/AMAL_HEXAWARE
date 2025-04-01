@@ -17,8 +17,10 @@ public class ListMethodsDemo {
         lst.add(2,"salman");
         System.out.println(lst);
         System.out.println("get element at index 2: "+lst.get(2));
+        lst.set(3,"laxman");
         lst.remove(2);
         System.out.println(lst);
+        System.out.println("index of tom: "+lst.indexOf("sam"));
         lst.remove("ravi");
         System.out.println(lst);
         System.out.println("size: "+lst.size());
